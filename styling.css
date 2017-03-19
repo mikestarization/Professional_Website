@@ -1,0 +1,78 @@
+p {
+	text-align:center;
+	color: white;
+ }
+
+ h1 { 
+ 	color:black;
+ 	border:medium;
+ 	border-style:solid;
+ 	background-color:white;
+ 	text-align: center;
+ }
+
+ h2 {
+ 	text-align:center;
+ 	color: white;
+ }
+
+ h3 {
+ 	text-align: center;
+ 	color: white;
+ }
+
+ h4 {
+ 	text-align: center;
+ 	color: white;	
+ }
+
+ strong {
+ 	padding-left: 45%; 
+ 	color: white;
+ }
+
+ section {
+ 	padding-top: 5px
+ }
+
+ body {
+ 	background-color: #68829E 
+}
+
+li {
+	color: white;
+	padding-left: 50px;
+}
+
+ol
+{
+    margin: 0;
+    list-style-type: none; /*Making the list unordered, and display as a block of items*/
+}
+ol li
+{
+    margin: 0;
+    list-style-type: none;
+    float: left;
+    display: block;
+}
+.Black_Bars{
+	background-color: black; 
+	width: 100%; 
+	height: 1px;
+}
+
+.About_Footer {
+	height:10%;
+	padding-top: 200px;
+	background-image:url(http://more-sky.com/data/out/5/IMG_63144.jpg);
+	background-position: fixed;
+}
+
+a:hover {
+	color: grey;
+}
+
+a:visited {
+	color:grey;
+}
